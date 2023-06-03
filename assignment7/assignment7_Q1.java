@@ -4,8 +4,6 @@ import java.util.Scanner;
 public class assignment7_Q1 {
     static long value1;
     static long value2;
-
-
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         long n = in.nextLong();
